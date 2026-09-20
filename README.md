@@ -1,0 +1,1 @@
+Work in progress. Currently working on compiling and cleaning data to determine which features will be most useful for a model. Also working on determining a formula to calculate game score, which eventually will be predicted.
